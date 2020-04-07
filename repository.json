@@ -1,0 +1,5 @@
+{
+  "name": "Home Assistant Hubitat Integration Add-on",
+  "url": "https://github.com/megalithic/hacs-hubitat",
+  "maintainer": "Seth Messer <https://github.com/megalithic>"
+}
